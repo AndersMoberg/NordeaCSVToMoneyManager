@@ -2,5 +2,8 @@
   "private": true,
   "scripts": {
     "start": "node index.js"
+  },
+  "dependencies": {
+    "csv": "^5.3.1"
   }
 }
